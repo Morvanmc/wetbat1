@@ -1,16 +1,16 @@
 ﻿# LaunchCode WetBat Challenge
  
- # Deploy Frontend
+ ## Deploy Frontend
   [WetBat - Front](https://wetbat.netlify.app/)
   
- # Deploy Backend
+ ## Deploy Backend
   [WetBat - Backend](https://wetbat-challenge.herokuapp.com/)
   - Métodos: 
       - /api/insert para inserção (Component QuickQuote);
       - /api/select para todos os dados (Component TableQuotes);
       - /api/lasts para os últimos 8 registros (Component LastQuotes);
  
-# Rodando localmente
+## Rodando localmente
 
 Clone o repositório: **git clone**
 
