@@ -1,0 +1,107 @@
+[
+    {
+        "fromDeparture": "BSB - Brasília",
+        "destination": "GIG - Rio de Janeiro",
+        "departureDate": "2022-03-01 00:00:00",
+        "retureDate": "2022-03-04 00:00:00",
+        "numberOfPeoples": 1,
+        "transportation": "Bus",
+        "clientName": "Morvan Marques",
+        "clientPhone": "22999959874"
+    }, 
+    {
+        "fromDeparture": "FLN - Florianópolis",
+        "destination": "GIG - Rio de Janeiro",
+        "departureDate": "2022-03-08 00:00:00",
+        "retureDate": "2022-03-10 00:00:00",
+        "numberOfPeoples": 2,
+        "transportation": "Bus",
+        "clientName": "Silvana Almeida",
+        "clientPhone": "22999979874"
+    }, 
+    {
+        "fromDeparture": "VCP - Campinas",
+        "destination": "CWB - Curitiba",
+        "departureDate": "2022-04-18 00:00:00",
+        "retureDate": "2022-04-21 00:00:00",
+        "numberOfPeoples": 3,
+        "transportation": "Bus",
+        "clientName": "Gabriel Lins",
+        "clientPhone": "36998754536"
+    }, 
+    {
+        "fromDeparture": "BEL - Belém",
+        "destination": "VIX - Vitória",
+        "departureDate": "2022-03-27 00:00:00",
+        "retureDate": "2022-03-31 00:00:00",
+        "numberOfPeoples": 2,
+        "transportation": "Rental car",
+        "clientName": "Joana Maranhão",
+        "clientPhone": "85999752215"
+    }, 
+    {
+        "fromDeparture": "SDU - Rio de Janeiro",
+        "destination": "MCP - Macapá",
+        "departureDate": "2022-03-25 00:00:00",
+        "retureDate": "2022-03-26 00:00:00",
+        "numberOfPeoples": 2,
+        "transportation": "Rental car",
+        "clientName": "Alice Ferreira",
+        "clientPhone": "5498595623"
+    },
+    {
+        "idquotes": 6,
+        "fromDeparture": "SDU - Rio de Janeiro",
+        "destination": "BOG - Bogotá",
+        "departureDate": "2022-05-25T03:00:00.000Z",
+        "retureDate": "2022-05-31T03:00:00.000Z",
+        "numberOfPeoples": 1,
+        "transportation": "Rental car",
+        "clientName": "Hernandes Albertinez",
+        "clientPhone": "556899885269"
+      },
+      {
+        "idquotes": 7,
+        "fromDeparture": "BSB - Brasília",
+        "destination": "BRE - Germany",
+        "departureDate": "2022-03-30T03:00:00.000Z",
+        "retureDate": "2022-04-08T03:00:00.000Z",
+        "numberOfPeoples": 4,
+        "transportation": "Rental car",
+        "clientName": "Lúcia Silva",
+        "clientPhone": "2195863214"
+      },
+      {
+        "idquotes": 8,
+        "fromDeparture": "CAG - Itália",
+        "destination": " GIG - Rio de Janeiro",
+        "departureDate": "2022-06-02T03:00:00.000Z",
+        "retureDate": "2022-06-10T03:00:00.000Z",
+        "numberOfPeoples": 3,
+        "transportation": "Rental car",
+        "clientName": "Maya Cocciarela",
+        "clientPhone": "5226954941"
+      },
+      {
+        "idquotes": 9,
+        "fromDeparture": "CGH - São Paulo",
+        "destination": "SDU - Rio de Janeiro",
+        "departureDate": "2022-03-20T03:00:00.000Z",
+        "retureDate": "2022-03-22T03:00:00.000Z",
+        "numberOfPeoples": 1,
+        "transportation": "Bus",
+        "clientName": "Bruno Lisboa",
+        "clientPhone": "1195879944"
+      },
+      {
+        "idquotes": 10,
+        "fromDeparture": "EYW - Key West, USA",
+        "destination": "BRE - Germany",
+        "departureDate": "2022-03-25T03:00:00.000Z",
+        "retureDate": "2022-03-30T03:00:00.000Z",
+        "numberOfPeoples": 3,
+        "transportation": "Rental car",
+        "clientName": "Sheldon Cooper",
+        "clientPhone": "55599955996"
+      }
+]
